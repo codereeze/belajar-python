@@ -4,8 +4,8 @@
 #** <=================================================================> **#
 
 # operator keanggotaan in
-name = "Atyla Azfa Al Harits"
-check_value = "Atyla" in name # apakah nilai string Atyla ada di dalam variable name
+name = "Jane Doe"
+check_value = "Doe" in name # apakah nilai string Atyla ada di dalam variable name
 
 print(check_value)
 

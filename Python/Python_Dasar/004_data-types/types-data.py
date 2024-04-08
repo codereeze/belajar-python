@@ -16,10 +16,10 @@
 
 
 # string
-nama = "Al Harits"
+name = "John Doe"
 
 # integer
-umur = 17
+age = 17
 
 # float
 pi = 3.14
@@ -29,4 +29,4 @@ maried = False
 active = True
 
 # list/array
-address = ["Tasikmalaya", 123, True, ["Hello", "World"]]
+address = ["Washington DC", 123, True, ["Hello", "World"]]

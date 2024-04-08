@@ -7,7 +7,7 @@
 
 # contoh membuat variable
 
-name = "Atyla Azfa Al Harits"
+name = "Jane DOe"
 code_class = "19.1A.17"
 city = "Tasikmalaya, Indonesia"
 

@@ -1,4 +1,3 @@
-# tuple adalah tipe data di Python yang bisa menampung banyak data sekaligus
 # tuple mirip seperti list, namun bedanya tuple nilainya tidak bisa di manipulasi
 # tuple berisifat immutable (tidak bisa diubah) atau bisa disebut konstanta
 

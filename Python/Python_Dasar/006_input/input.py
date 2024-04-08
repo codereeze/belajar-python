@@ -1,4 +1,3 @@
-# di Python kita bisa memasukan nilai data ke variable secara tidak langsung atau nanti
 # kita bisa menginputkan data melalui terminal
 # yaitu menggunakan method input, perlu diingat methon input selalu mengembalikan nilai berupa string
 # jadi misalkan kita ingin nilainya sesuai dengan keinginan, kita harus melakukan casting / konversi tipe data

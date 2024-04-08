@@ -1,6 +1,6 @@
 # dictionary adalah tipe data yang memungkinkan kita menyimpan data dengan pasangan key (kunci) dan value (nilai)
 # nama key di dictionary bisa bertipe apa saja entah itu string, integer, float, dan lain-lain dengan syarat harus unik (key tidak boleh sama)
-# dictionary adalah tipe data yang mirip seperti object literals di JavaScript
+# dictionary adalah tipe data yang hampir mirip seperti object literal di JavaScript
 
 #** <=================================================================> **#
 #** <=================================================================> **#
